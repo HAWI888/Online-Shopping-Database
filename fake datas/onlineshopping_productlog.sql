@@ -1,0 +1,1 @@
+INSERT INTO onlineshopping.productlog (Old_PID, New_PID, Old_ProductName, New_ProductName, Old_Price, New_Price, Old_Discount, New_Discount, Old_Stock, New_Stock, OLD_RegisterNumber, NEW_RegisterNumber, changedTime) VALUES (null, 9, null, 'adasddsa', null, 80000.00, null, 0, null, 1, null, 1, '2018-01-19 17:49:31');

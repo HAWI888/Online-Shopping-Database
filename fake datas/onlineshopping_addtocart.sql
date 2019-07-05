@@ -1,0 +1,2 @@
+INSERT INTO onlineshopping.addtocart (PID, CustomerID, AddCount, AddTime) VALUES (1, 1, 5, '2018-01-01');
+INSERT INTO onlineshopping.addtocart (PID, CustomerID, AddCount, AddTime) VALUES (1, 1, 4, '2016-12-08');

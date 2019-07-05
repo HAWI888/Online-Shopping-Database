@@ -1,0 +1,1 @@
+INSERT INTO onlineshopping.employeelog (OLD_SSN, NEW_SSN, OLD_CompanyName, NEW_CompanyName, OLD_ID, NEW_ID, changedTime) VALUES (null, 3, null, 'nike', null, 1, '2018-01-19 17:46:48');

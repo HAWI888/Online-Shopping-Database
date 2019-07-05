@@ -1,0 +1,2 @@
+INSERT INTO onlineshopping.customeraccountinformation (Username, Credit, Phone1, Phone2, Address1, Address2, RegisterDate, deletedAccount) VALUES ('adelghaenian', 6000.00, 1, 2, '3', '4', '3 rooz pish', 0);
+INSERT INTO onlineshopping.customeraccountinformation (Username, Credit, Phone1, Phone2, Address1, Address2, RegisterDate, deletedAccount) VALUES ('mehrdadjaberi', 5000.00, 1, 2, '3', '4', 'dirooz', 0);

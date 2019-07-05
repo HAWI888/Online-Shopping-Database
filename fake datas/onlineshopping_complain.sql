@@ -1,0 +1,1 @@
+INSERT INTO onlineshopping.complain (ComplainText, SSN, CustomerID, SupportDate) VALUES ('jens khoob nis :)', 1, 1, '2017-01-01');

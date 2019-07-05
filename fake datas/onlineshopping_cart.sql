@@ -1,0 +1,2 @@
+INSERT INTO onlineshopping.cart (CartID, DriverSSN, Destination, DeliveryDate, PaymentationType) VALUES (1, 1, 'tochal', '2016-12-28', 'online');
+INSERT INTO onlineshopping.cart (CartID, DriverSSN, Destination, DeliveryDate, PaymentationType) VALUES (2, 1, 'adasdsa', '2017-01-01', 'online');

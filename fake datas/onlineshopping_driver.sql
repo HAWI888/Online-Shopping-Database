@@ -1,0 +1,1 @@
+INSERT INTO onlineshopping.driver (SSN, Phone1, Phone2, Address) VALUES (1, 9338743189, null, 'zaferaniye');
